@@ -1,0 +1,19 @@
+.Form {
+	border: 1px solid black;
+	display: flex;
+	margin-left: 25rem;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	padding: 1rem;
+	border-radius: 6px;
+	text-align: center;
+	width: 50%;
+}
+
+.btn {
+	background-color: #2e5bff;
+	color: white;
+	margin-left: 2rem;
+	margin-top: 6px;
+}

@@ -1,0 +1,11 @@
+.cardFlight {
+	display: flex;
+	flex-direction: row;
+	width: 50%;
+}
+
+.cardText {
+	display: flex !important;
+
+	width: 50%;
+}
